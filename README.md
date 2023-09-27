@@ -1,4 +1,4 @@
-### Hi there 👋
+What is up and Where is down. I recently finished an apprenticeship in software development, with a specialisation in Oracle database management. The LibraryDB repo is my final assessment from the apprenticeship. I work with SSMS and Oracle mainly but I also have some experience with Python, C#, HTML, C++, Java and Javascript.  
 
 <!--
 **EoinR11/EoinR11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
